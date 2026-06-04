@@ -28,6 +28,7 @@ const categoryColors: Record<string, string> = {
   bengaluru: "#34d399",
   southindia: "#2dd4bf",
   general: "#00ffaa",
+  defence: "#cc1100",
 };
 
 export default function CalendarDay({
